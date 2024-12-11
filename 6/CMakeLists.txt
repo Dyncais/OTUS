@@ -3,4 +3,4 @@ project(Conteiners)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Conteiners main.cpp)
+add_executable(Conteiners main.cpp List.h Sequential.h )
